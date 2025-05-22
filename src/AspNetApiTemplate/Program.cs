@@ -14,5 +14,6 @@ builder.WebHost.ConfigureKestrel(serverOptions =>
 var app = builder.Build();
 
 app.UseServices();
+app.MigrateDatabase();
 
 app.Run();
