@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AspNetApiTemplate/AspNetApiTemplate.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AspNetApiTemplate.Tests/AspNetApiTemplate.Tests.csproj" />
+  </Folder>
+</Solution>
